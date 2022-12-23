@@ -1,5 +1,5 @@
 # Multi-Layer-Perceptron from scratch for classification
-Please find the detailed problem statement [here.]()
+Please find the detailed problem statement [here.](https://github.com/purvaingle/Multi-Layer-Perceptron/blob/main/Problem3_statement.pdf)
 
 • Implemented a MLP from scratch using no machine learning libraries.
 
