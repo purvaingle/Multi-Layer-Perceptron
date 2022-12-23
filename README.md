@@ -5,7 +5,7 @@ Please find the detailed problem statement [here.]()
 
 • Constructed and trained the neural network classifier using provided labeled training data from four different datasets: 
 
-_ Spiral: Both classes are interwoven in a spiral pattern. Data points are subject to noise along their respective spiral and thus may overlap;
+- Spiral: Both classes are interwoven in a spiral pattern. Data points are subject to noise along their respective spiral and thus may overlap;
 - Gaussian: Data points are generated and classified according to two Gaussian distributions. The distributions have different means, but samples may overlap; 
 - XOR: Data points classified according to the XOR function. Noise may push data classes over XOR “boundaries”; 
 - Circle: Data points are generated and classified according to two annuli (rings) sharing a common center. Although the annuli are not overlapping, noise may push data points across the gap.
